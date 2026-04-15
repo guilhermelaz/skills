@@ -1,0 +1,1 @@
+Skills para serem utilizadas no Chat de conversa do Claude (https://claude.ai)
